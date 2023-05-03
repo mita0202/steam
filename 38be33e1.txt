@@ -1,0 +1,62 @@
+Unverified = easier
+ 
+1.) go to https://www.epicgames.com/site/en-US/customer-service
+ 
+2.) click contact us
+ 
+3.) fill it out as follows
+ 
+Epic account
+ 
+Platform (what ever you play on with that account)
+ 
+Language (Your language ofc)
+ 
+Email address (where epic can contact you)
+ 
+Unable to login to epic games account
+ 
+Say something among the lines of
+ 
+"Hello, I made my account with a invalid email" and add on to make it seem not too blatant
+ 
+4.)Wait for epic to respond (1 hour-24 hours)
+ 
+4 a.)They Will Need The Following Info
+ 
+-The email address associated with your Epic Games account
+ 
+-Current Epic Games account display name
+ 
+-First and Last Name of Epic Games account holder (if you don't know change it in epic settings)
+ 
+-External accounts that are currently connected to your Epic Games account (xbox/ps4/twitch etc)
+ 
+5.)Wait for them to determine that is accurate and respond
+ 
+5 a.) Once epic responded they'll need some more info as follows
+ 
+• Your public IP address(es) (IPv4), which you can find by searching "What is my IP address" in your internet browser; if you use
+multiple devices, please include all IP addresses (if you don't know it you can play 5-10 matches on your mobile/pc and 15+ matches on console to override the ip, make sure to use your ip and not a vpn)
+ 
+• Date when you created your Epic Games account (use the facebook skin checker for exact date) (https://www.messenger.com/t/EasySkinChecker)
+ 
+• Locations (city, state/province) where you made purchases on the account (if the account is pc they might have made purchases if none say "none were made")
+ 
+• Original display name for the account (just use current seems to work fine but if you know the OG one use it)
+ 
+• Last 4 digits of the first payment card used on the account (they might have once linked if none say "no card was linked"
+ 
+• Date of your last login (last time you played (you can login via mobile/pc and use todays date)
+ 
+• Names of any PlayStation, Switch, Twitch, or Xbox accounts connected to your Epic Games account and the dates when they were connected (look in connected accounts tab)
+ 
+• The invoice ID or transaction number from your Epic Games purchase (sent to the email which you cant access so say "no purchases made")
+ 
+--The invoice ID is located at the top of your Epic Games receipt and begins with an "A," followed by eight (8) or nine (9) digits; example: A12345678. (also sent to email say "no purchases made")
+ 
+--The transaction number can be found in your emailed Xsolla receipt. Please note that the number is a nine-digit string starting with a “4” or “5.” (also in email say "no purchases made")
+ 
+6.) Wait for epics final response and if all went well they'll ask you what you want the new email to be make sure to verify to yourself this is the correct email as this wont work twice for the same account
+ 
+6 a.) once you send them your email they'll send you a email advising you to change your password, do so and add 2fa!
